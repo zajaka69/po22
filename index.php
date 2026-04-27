@@ -9,6 +9,7 @@
     <?php include 'includes/header.php'; ?>
     <main>
         <h1>Добро пожаловать!</h1>
+        <h2>GGHJBHJFDD</h2>
     </main>
     <?php include 'includes/footer.php'; ?>
 </body>
